@@ -25,7 +25,7 @@ The dataset contains categorical and structured survey responses suitable for ex
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Collab
 
 ## Analysis Performed
 
