@@ -6,18 +6,13 @@ This project analyzes survey data collected as part of a Master's dissertation r
 The objective of the analysis is to explore patterns in how academic professionals interact with digital library platforms and their awareness of data analytics tools.
 
 ## Dataset
-The dataset consists of responses from **63 academic librarians** who participated in a structured survey.
+## Note on Dataset
 
-The survey included **20 questions** covering:
+The original survey dataset used in the MSc dissertation is not publicly available due to research data handling practices.
 
-- Demographic information
-- Digital library usage patterns
-- Awareness of big data analytics
-- Technology adoption
-- Training requirements for analytics tools
+To demonstrate the analysis workflow, a **synthetic sample dataset** with similar structure and variables has been created for this repository.
 
-The dataset contains categorical and structured survey responses suitable for exploratory data analysis.
-
+The dataset replicates the types of responses collected in the original survey while not containing any real respondent data.
 ## Tools Used
 
 - Python
